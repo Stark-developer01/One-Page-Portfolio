@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "My Blog"
+title:  "Welcome you all"
 date:   2020-04-02 09:19:47 +0530
 categories: blog new
-permalink: /blog/new/
-author: Rishav
+permalink: /Welcome-you-all/
+author: Debargha
 ---
-
-<img src="/assets/img/image1.jpg" />
-
-THis isgvfghjklcvbn ..
+## Welcome all of you to my website. 
 
 {%- for state in page.states -%}
   {{ state.capital }}

@@ -1,22 +1,29 @@
-
-title: Dipan Roy
-email: dipanroy@mindwebs.org
+title: Debargha Saha
+email: debarghasaha01@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  If Content is King, Design is Queen, then Development is the Kingdom. Without Kingdom, King and Queen are nothing!
-  And I can help build your Empire!
+  Sometimes all you need is dedication and commitment to your work, and see the magic happen!!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dipanr29
-github_username:  dipan29
+twitter_username: saha_debargha
+github_username:  Stark-developer01
 
 author:
-    name: Dipan Roy
-    email: dipanroy@mindwebs.org
+    name: Debargha Saha
+    email: debarghasaha01@gmail.com
 social:
-  github: dipan29
-  twitter: dipanr29
-  facebook: dipan29
-  linkedin: dipan29
+  github: Stark-developer01
+  twitter: saha_debargha
+  facebook: debargha01
+  linkedin: debargha-saha-572260168
+  instagram: saha_debargha
+
+  defaults:
+    -
+      scope:
+        path: ""
+        type: "posts"
+      values:
+        layout: "post"
 
 # Build settings
 theme: minima
