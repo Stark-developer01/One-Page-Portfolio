@@ -5,7 +5,7 @@ date:   2020-04-02 09:19:47 +0530
 categories: jekyll update
 permalink: /My-Blog/
 ---
-<img src="\assets\img\header.jpg\">
+<img src="\assets\img\image1.jpg">
 
 ## Hey folks! Let's give you a little introduction to you about me. <br>
 #### Myself Debargha Saha, a Second Year Undergraduate, pursuing B.Tech from Kalyani Government Engineering College.
